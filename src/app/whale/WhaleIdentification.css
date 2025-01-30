@@ -1,0 +1,19 @@
+/* Additional custom styles for Material UI */
+.MuiTableCell-root {
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .MuiTableRow-root:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .MuiButton-root {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .MuiButton-root:hover {
+    background-color: #0056b3;
+  }
+  

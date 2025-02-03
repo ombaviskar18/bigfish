@@ -51,7 +51,7 @@ npm >= 6.14.0
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sarthaknimje/bigfish.git
+git clone https://github.com/ombaviskar18/bigfish.git
 cd bigfish
 ```
 

@@ -148,8 +148,8 @@ This project is licensed under the MIT License.
 
 ## Contact 📧
 
-- GitHub: [@Sarthaknimje](https://github.com/Sarthaknimje)
-- Project Link: [https://github.com/Sarthaknimje/bigfish](https://github.com/Sarthaknimje/bigfish)
+- GitHub: [[@ombaviskar18](https://github.com/ombaviskar18)
+- Project Link:https://github.com/ombaviskar18/bigfish
 
 
 Give a ⭐️ if this project helped you track NFT whales better!
